@@ -349,17 +349,8 @@ public class MainActivity extends Activity {
 
 								_tw.setText(endStr);
 
-								/*
-
-								 Created by JulianFun123
-
-								 - interaapps.de
-
-								 Short Long links with PunyShort.ga
-
-								 If you want to share code, use pastefy.ga
-
-								 */
+								
+								 
 								i++;
 							}
 							else {
